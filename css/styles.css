@@ -1,0 +1,150 @@
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto !important; }
+
+.container {
+  width: 100%;
+  margin: 0 auto; }
+
+.card-image {
+  width: 100%;
+  height: 100%; }
+
+.horizontal {
+  width: 100%;
+  height: 100%; }
+
+#card-color-1 {
+  background-color: #d9f5e8; }
+
+#card-color-2 {
+  background-color: #2accc3; }
+
+#card-color-3 {
+  background-color: #ffbc17; }
+
+#card-color-4 {
+  background-color: #ff623f; }
+
+#gradients {
+  width: 100%;
+  height: 100%; }
+
+#mint-gradient, #teal-gradient, #gold-gradient, #tomato-gradient {
+  margin-top: 5em; }
+
+.mint-lighten {
+  height: 150px; }
+
+.mint-standard {
+  height: 150px; }
+
+.mint-darken {
+  height: 150px; }
+
+.mint-lighten {
+  background-color: #b1ead0; }
+
+.mint-standard {
+  background-color: #88e0b7; }
+
+.mint-darken {
+  background-color: #60d59f; }
+
+.mint-lighten {
+  height: 150px; }
+
+.mint-standard {
+  height: 150px; }
+
+.mint-darken {
+  height: 150px; }
+
+.mint-lighten {
+  background-color: #38cb86; }
+
+.mint-standard {
+  background-color: #2ba46c; }
+
+.mint-darken {
+  background-color: #217c51; }
+
+.teal-lighten {
+  background-color: #26b7af; }
+
+.teal-standard {
+  background-color: #21a29b; }
+
+.teal-darken {
+  background-color: #1d8d86; }
+
+.teal-lighten {
+  background-color: #197772; }
+
+.teal-standard {
+  background-color: #14625e; }
+
+.teal-darken {
+  background-color: #104d4a; }
+
+.teal-lighten, .teal-standard, .teal-darken {
+  height: 150px; }
+
+.gold-lighten {
+  background-color: #fdb400; }
+
+.gold-standard {
+  background-color: #e3a100; }
+
+.gold-darken {
+  background-color: #ca8f00; }
+
+.gold-lighten {
+  background-color: #b07d00; }
+
+.gold-standard {
+  background-color: #976b00; }
+
+.gold-darken {
+  background-color: #7d5900; }
+
+.gold-lighten, .gold-standard, .gold-darken {
+  height: 150px; }
+
+.tomato-lighten {
+  background-color: #ff4d26; }
+
+.tomato-standard {
+  background-color: #ff380c; }
+
+.tomato-darken {
+  background-color: #f22c00; }
+
+.tomato-lighten {
+  background-color: #d82700; }
+
+.tomato-standard {
+  background-color: #bf2300; }
+
+.tomato-darken {
+  background-color: #a51e00; }
+
+.tomato-lighten, .tomato-standard, .tomato-darken {
+  height: 150px; }
+
+#test-row {
+  border: 2px solid blue;
+  height: 100%;
+  width: 100%; }
+
+/*# sourceMappingURL=styles.css.map */
